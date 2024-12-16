@@ -10,7 +10,8 @@ class SPOTController {
       }
     });
     const products = JSON.parse(file);
-    return await SPOTService.manipulateProducts(products);
+    const data = await SPOTService.manipulateProducts(products);
+    return data ?? []
   }
 }
 

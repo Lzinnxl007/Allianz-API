@@ -1,30 +1,28 @@
-import CSVController from "../CSV/CSV.controller.js";
+
 
 class SPOTService {
   static async manipulateProducts(products) {
-    const token = await SPOTService.#getToken()
+    const token = await SPOTService.getToken()
 
-    const SPOTAllProducts = await SPOTService.#getSpotProducts(token);
-    const productsStock = await SPOTService.#getStock(token)
+    const SPOTAllProducts = await SPOTService.getSpotProducts(token);
+    const productsStock = await SPOTService.getStock(token)
 
     SPOTAllProducts?.forEach((product, index) => {
-      product.stock = productsStock[index].Quantity
+      product.stock = productsStock?.[index].Quantity
     })
 
-    const SPOTCodes = products.map((product) => product.codigo);
+    const SPOTCodes = products?.map((product) => product.codigo);
 
-    const filteredSPOTProducts = SPOTService.#filterSpotProducts(
+    const filteredSPOTProducts = SPOTService.filterSpotProducts(
       SPOTAllProducts,
       SPOTCodes
     );
-
-    console.log(filteredSPOTProducts.length)
 
     return filteredSPOTProducts
     
   }
 
-  static async #getToken() {
+  static async getToken() {
     try {
       const tokenResponse = await fetch(
         "http://ws.spotgifts.com.br/api/v1/authenticateclient?AccessKey=dtFAe3tlWao8Q3rO"
@@ -40,7 +38,7 @@ class SPOTService {
       return;
     }
   }
-  static async #getSpotProducts(token) {
+  static async getSpotProducts(token) {
     try {
       const productsResponse = await fetch(
         `http://ws.spotgifts.com.br/api/v1/productsTree?token=${token}&lang=PT`
@@ -57,7 +55,7 @@ class SPOTService {
     }
   }
 
-  static async #getStock(token) {
+  static async getStock(token) {
     try {
       const response = await fetch(
         `http://ws.spotgifts.com.br/api/v1/stocks?token=${token}&lang=PT`
@@ -72,7 +70,7 @@ class SPOTService {
     }
   }
 
-  static #filterSpotProducts(products, codes) {
+  static filterSpotProducts(products, codes) {
     const additionalData = products.map((product) => product.ProductOptionals);
     products.forEach((product, index) => {
       product.WebSku = additionalData[index][0].WebSku;
