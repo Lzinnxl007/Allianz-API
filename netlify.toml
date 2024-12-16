@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/src/server/*"
+  to = "/xbz"
+  status = 200
