@@ -18,7 +18,11 @@
       {
         "src": "/receive-products",
         "dest": "src/server/server.js"
+      },
+      {
+        "src": "/hello",
+        "dest": "src/server/server.js"
       }
     ]
   }
-  
+ 

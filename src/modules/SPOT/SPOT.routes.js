@@ -4,7 +4,7 @@ import SPOTController from "./SPOT.controller.js"
 async function SPOTRoutes(app) {
     const routes = [
         {
-            method: "get",
+            method: "GET",
             url: "/spot",
             handler: SPOTController.ManipulateProducts
         }

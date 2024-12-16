@@ -13,6 +13,10 @@ server.register(ProductsRoutes);
 server.register(XBZRoutes);
 server.register(SPOTRoutes);
 
+server.get("hello", () => {
+  return "Hello World"
+})
+
 try {
   await server.listen({
     port: 3000

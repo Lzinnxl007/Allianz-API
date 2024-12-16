@@ -17,7 +17,7 @@ class XBZService {
       XBZCategories
     );
 
-    const updatedProducts = XBZService.#addProductType(productsWithCategories)
+    const updatedProducts = XBZService.#addProductType(productsWithCategories);
 
     /* const groupedProducts = XBZService.#filterProductsBySKU(
       updatedProducts
@@ -25,23 +25,34 @@ class XBZService {
 
     //CSVController.CreateCSV(updatedProducts, "XBZ");
 
-    return updatedProducts
-
+    return updatedProducts;
   }
 
   static async #getXbzProducts() {
-    const response = await fetch("https://api.minhaxbz.com.br:5001/api/clientes/GetListaDeProdutos?cnpj=48497996000119&token=XF88B9861C");
-    const products = await response.json();
-    return products;
+    try {
+      const response = await fetch(
+        "https://api.minhaxbz.com.br:5001/api/clientes/GetListaDeProdutos?cnpj=48497996000119&token=XF88B9861C"
+      );
+      const products = await response.json();
+      return products;
+    } catch (error) {
+      if (error instanceof Error) {
+        console.log(error.message);
+      }
+      return error;
+    }
   }
 
   static #filterXBZProducts(products, codes) {
     const filteredProducts = products.filter((product) => {
-      if(codes.includes(product.CodigoComposto) || codes.includes(product.CodigoAmigavel)) {
-        return product
+      if (
+        codes.includes(product.CodigoComposto) ||
+        codes.includes(product.CodigoAmigavel)
+      ) {
+        return product;
       }
     });
-    return filteredProducts
+    return filteredProducts;
   }
 
   static #addCategory(products, categories) {
@@ -53,30 +64,38 @@ class XBZService {
   }
 
   static #addProductType(products) {
-    const updatedProducts = products.map(product => {
-      const isVariable = products.filter(p => p.CodigoComposto === product.CodigoComposto).length > 1;
+    const updatedProducts = products.map((product) => {
+      const isVariable =
+        products.filter((p) => p.CodigoComposto === product.CodigoComposto)
+          .length > 1;
       return {
         ...product,
-        Tipo: isVariable ? "variable" : "simple"
+        Tipo: isVariable ? "variable" : "simple",
       };
     });
-    console.log(updatedProducts)
-    return updatedProducts
+    console.log(updatedProducts);
+    return updatedProducts;
   }
 
   static #filterProductsBySKU(products) {
     const groupedProducts = products.reduce((acc, product) => {
-      const { CodigoAmigavel, CorWebPrincipal, QuantidadeDisponivel, ...rest } = product;
-    
+      const { CodigoAmigavel, CorWebPrincipal, QuantidadeDisponivel, ...rest } =
+        product;
+
       if (!acc[CodigoAmigavel]) {
-        acc[CodigoAmigavel] = { CodigoAmigavel, QuantidadeDisponivel, CorWebPrincipal: [], ...rest };
+        acc[CodigoAmigavel] = {
+          CodigoAmigavel,
+          QuantidadeDisponivel,
+          CorWebPrincipal: [],
+          ...rest,
+        };
       }
-    
-      acc[CodigoAmigavel].QuantidadeDisponivel = QuantidadeDisponivel
-      acc[CodigoAmigavel].CorWebPrincipal.push(CorWebPrincipal)
+
+      acc[CodigoAmigavel].QuantidadeDisponivel = QuantidadeDisponivel;
+      acc[CodigoAmigavel].CorWebPrincipal.push(CorWebPrincipal);
       return acc;
     }, {});
-    
+
     const result = Object.values(groupedProducts).map((group) => ({
       ...group,
       Cores: group.CorWebPrincipal.join(" | "),
