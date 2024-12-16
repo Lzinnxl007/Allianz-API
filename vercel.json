@@ -12,7 +12,11 @@
         "dest": "/src/server/server.js"
       },
       {
-        "src": "/spot/(.*)",
+        "src": "/spot",
+        "dest": "/src/server/server.js"
+      },
+      {
+        "src": "/receive-products",
         "dest": "/src/server/server.js"
       }
     ]
