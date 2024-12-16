@@ -1,0 +1,462 @@
+[
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98192-107",
+    "categoria": "ACESSÓRIOS P/CARRO"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57078-104",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57078-103",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57078-127",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57906-103",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57906-106",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57906-114",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94785-110",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94677-147",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94677-127",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93804-106",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94114-160",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93425-104",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93425-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93425-106",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93425-114",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93715-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93715-104",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93725-104",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93725-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93725-113",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93791-160",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93791-104",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93791-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93422-106",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93422-134",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93422-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93735-103",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93735-104",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93735-106",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "93735-160",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98414-104",
+    "categoria": "BOLSAS TÉRMICAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98414-103",
+    "categoria": "BOLSAS TÉRMICAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57252-103",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57252-104",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57252-127",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "81156-137",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "81156-103",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "81156-104",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "81156-106",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "51716-150",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "51736-106",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "51736-103",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "51736-104",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94897-160",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98117-127",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99139-106",
+    "categoria": "DIVERSOS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99139-103",
+    "categoria": "DIVERSOS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99139-104",
+    "categoria": "DIVERSOS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99135-104",
+    "categoria": "DIVERSOS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99135-103",
+    "categoria": "DIVERSOS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99967-114",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99967-123",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99967-1003",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98137-103",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "99970-103",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92544-113",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94646-103",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94646-104",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94646-106",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "97318-103",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "97318-106",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "57398-114",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92313-123",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92313-114",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92352-103",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "97357-106",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "97357-103",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "97357-114",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "94112-103",
+    "categoria": "KITS GOURMET"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92138-103",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92186-127",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92186-103",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92637-114",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92724-103",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92724-131",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92724-104",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92290-103",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98320-123",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98320-104",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98332-104",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98332-106",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "58377-106",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "58377-104",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": 92513,
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98375-104",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98375-106",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98424-106",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "98424-104",
+    "categoria": "PRAIA / LAZER"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92869-160",
+    "categoria": "SACOLAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92998-134",
+    "categoria": "SACOLAS"
+  },
+  {
+    "fornecedor": "SPOT",
+    "codigo": "92998-106",
+    "categoria": "SACOLAS"
+  }
+]

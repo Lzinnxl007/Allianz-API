@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "src/server/server.js",
+        "use": "@vercel/node"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/xbz",
+        "dest": "/xbz"
+      },
+      {
+        "src": "/spot",
+        "dest": "/spot"
+      }
+    ]
+  }
+  

@@ -1,0 +1,662 @@
+[
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13469-PRE",
+    "categoria": "ACESSÓRIOS P/CARRO"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05090-BCO",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05090-PRE",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04052-BCO",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05036-BCO",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05036-PRE",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18565-BCO",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18565-PRE",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06073-BMB",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04363-AZU",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04363-PRE",
+    "categoria": "ACESSÓRIOS P/CELULAR"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18555-INO",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12046-PRE",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "15033-AZU",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "15033-BCO",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "15033-PRE",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18645L-AZ1",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18645L-BC2",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18645L-PRE",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18640-PRE/BCO",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "KIT18639-PRE",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "KIT18639-INO",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "KIT18639-CIN",
+    "categoria": "BAR E BEBIDAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14209B-PRE",
+    "categoria": "BLOCOS E CADERNETAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13713-CIN",
+    "categoria": "BOLSAS TÉRMICAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18603-CIN",
+    "categoria": "BOLSAS TÉRMICAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18603-PRE",
+    "categoria": "BOLSAS TÉRMICAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04361-BCO",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04361-PRE",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04067-BCO",
+    "categoria": "CAIXA DE SOM"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER2037-AMA",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER2037-AZU",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER2037-LAR",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER2037-ROS",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER2037-VD",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER157B-AZU",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER157B-BCO",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER157B-PRA",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "ER157B-PRE",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-AZE",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-BCO",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-DOU",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-PRA/PRA",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-PRA/PRE",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13546B-PRE",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18543-AZU/AZU",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18543-BCO",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18543-CIN",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18543-PRE",
+    "categoria": "CANETAS E LÁPIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "10889-PRE",
+    "categoria": "CONJUNTOS EXECUTIVOS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "182PAR-CRO",
+    "categoria": "CONJUNTOS EXECUTIVOS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "182PAR-PRE",
+    "categoria": "CONJUNTOS EXECUTIVOS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06078-AZU",
+    "categoria": "CONJUNTOS EXECUTIVOS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06078-PRA",
+    "categoria": "CONJUNTOS EXECUTIVOS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06040-AZU",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06040-PRE",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18535-BCO",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18536-BCO",
+    "categoria": "CUIDADOS PESSOAIS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18637-AZU",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18637-BCO",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18637-CHU",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18547-AZU",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18547-PRA",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18547-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14291-AZU",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14291-INO",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14291F-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "17011F-AZU",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "17011F-BCO",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "17011F-INO",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "17011F-PRE/PRA",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18639-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18639-INO/BEG",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18639-CIN",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01115-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18695-AZE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18695-FUM",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18695-TRA",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": 14186,
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04086-CIN",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04086-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05014-PRE",
+    "categoria": "FITNESS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12628-BCO",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14522-BCO",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14522-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12790-BCO",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12790-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01810-AZC",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01810-BCO",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01810-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01812-AZU",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01812-BCO",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01812-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18673-CIN",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18673-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04092B-AZU",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04092B-CIN",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04092B-PRE",
+    "categoria": "INFORMÁTICA E TELEFONIA"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "05184-PRE",
+    "categoria": "KITS GOURMET"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12089-MAD",
+    "categoria": "KITS GOURMET"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "03222-MAD",
+    "categoria": "KITS GOURMET"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "12957-MAD",
+    "categoria": "KITS GOURMET"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14198-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14048-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01306-CIN",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01306-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "02096-PRE/CIN",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01118-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "20061-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "01199-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13828B-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": 15032,
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18601-AZU",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18601-CIN",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18601-PRE",
+    "categoria": "MOCHILAS E MALAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14571-AZU",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14571-PRE",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14572-AZU",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "14572-PRE",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18507-CIN",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18507-PRE",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18538-AZU",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18538-CIN",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18538-PRE",
+    "categoria": "NECESSAIRE"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06049M-CZC",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "06049M-PRE",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18672-CIN",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "18672-PRE",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04090-CIN",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "04090-PRE",
+    "categoria": "PASTAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": "13803N-BEG",
+    "categoria": "SACOLAS"
+  },
+  {
+    "fornecedor": "XBZ",
+    "codigo": 18745,
+    "categoria": "SACOLAS"
+  }
+]
