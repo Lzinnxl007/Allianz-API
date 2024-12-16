@@ -1,0 +1,12 @@
+[functions]
+  directory = "functions"
+
+[[redirects]]
+  from = "/src/server/server.js"
+  to = "/xbz"
+  status = 200
+
+[[redirects]]
+  from = "/src/server/server.js"
+  to = "/spot"
+  status = 200
