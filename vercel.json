@@ -8,8 +8,8 @@
     ],
     "routes": [
       {
-        "src": "/xbz",
-        "dest": "/xbz"
+        "src": "/src/server/server.js",
+        "dest": "/src/server/$1"
       },
       {
         "src": "/spot",
