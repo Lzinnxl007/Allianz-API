@@ -2,22 +2,22 @@
     "version": 2,
     "builds": [
       {
-        "src": "src/server/server.js",
+        "src": "server/server.js",
         "use": "@vercel/node"
       }
     ],
     "routes": [
       {
         "src": "/xbz",
-        "dest": "/src/server/server.js"
+        "dest": "server/server.js"
       },
       {
         "src": "/spot",
-        "dest": "/src/server/server.js"
+        "dest": "server/server.js"
       },
       {
         "src": "/receive-products",
-        "dest": "/src/server/server.js"
+        "dest": "server/server.js"
       }
     ]
   }

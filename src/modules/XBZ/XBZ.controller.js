@@ -10,7 +10,8 @@ class XBZController {
             }
         })
         const products = JSON.parse(file)
-        return await XBZService.manipulateProducts(products)
+        const data = await XBZService.manipulateProducts(products)
+        return data ?? []
     }
 }
 
